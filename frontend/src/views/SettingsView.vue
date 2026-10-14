@@ -720,7 +720,7 @@
                 <UiButton
                   variant="ghost"
                   icon="arrow-up-right"
-                  href="https://github.com/fke-dev/downtify"
+                  href="https://github.com/fke-dev/ravevault"
                 >
                   GitHub
                 </UiButton>
